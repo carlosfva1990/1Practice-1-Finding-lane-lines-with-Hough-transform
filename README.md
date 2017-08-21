@@ -6,3 +6,7 @@ In  this  project we  present  the  process  to  create  a progam able to  find 
 -chek the Project1 Report.pdf for more info of the project.
 
 -in the code i used absolute directions for the files change them to your directory.
+
+more info chek the videos:
+
+https://youtu.be/fiGRACDyKtg
