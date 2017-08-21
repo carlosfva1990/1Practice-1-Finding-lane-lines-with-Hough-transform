@@ -10,3 +10,5 @@ In  this  project we  present  the  process  to  create  a progam able to  find 
 more info chek the videos:
 
 https://youtu.be/fiGRACDyKtg
+
+https://youtu.be/SaItu1P8BoI
